@@ -1,5 +1,6 @@
-![Header](.github-header.png)
+![github-header](https://github.com/Vishrutisharma0/Vishrutisharma0/assets/83419687/8cacce3d-3560-42f1-bd67-6c8b023f64cd)
 <h3 align="center">Backend Developer</h3>
+
 
 
 - 🌱 I’m currently learning **Django**
