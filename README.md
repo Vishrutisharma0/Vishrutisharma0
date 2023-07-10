@@ -3,10 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishrutisharma0&label=Profile%20views&color=0e75b6&style=flat" alt="vishrutisharma0" /> </p>
 
+- 🌱 I’m currently learning **Django**
+
 - 📫 How to reach me **sharmavishruti0vs@gmail.com**
+
+- ⚡ Fun fact **I possess the duality of being a confetti canon and a buzzkill.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/vishruti_sharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishruti_sharma_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
