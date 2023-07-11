@@ -1,6 +1,6 @@
 ![github-header](https://github.com/Vishrutisharma0/Vishrutisharma0/assets/83419687/8cacce3d-3560-42f1-bd67-6c8b023f64cd)
 
-<h3 align="center">Backend Developer | Learner | Content Creator</h3>
+<h3 align="center">Learner | Backend Developer | Content Creator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishrutisharma0&label=Profile%20views&color=0e75b6&style=flat" alt="vishrutisharma0" /> </p>
 
@@ -23,3 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishrutisharma0&show_icons=true&locale=en&layout=compact" alt="vishrutisharma0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishrutisharma0&" alt="vishrutisharma0" /></p>
+
