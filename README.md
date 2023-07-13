@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishrutisharma0&label=Profile%20views&color=0e75b6&style=flat" alt="vishrutisharma0" /> </p>
 
-- 🌱 I’m currently working on a new **Website**
+- 🌱 I’m currently learning **Django**
  
 - 👨‍💻 All of my projects are available at [https://vishrutisharma.onrender.com](https://vishrutisharma.onrender.com)
   
